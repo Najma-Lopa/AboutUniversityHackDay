@@ -831,7 +831,7 @@ for message in st.session_state.messages:
 # =========================================================
 
 question = st.chat_input(
-    "e.g. Give me some description about HSTU?"
+    "e.g. How many department in HSTU?"
 )
 
 
