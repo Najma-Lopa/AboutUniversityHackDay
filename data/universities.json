@@ -1,0 +1,20 @@
+{
+  "HSTU": {
+    "name": "HSTU",
+    "website": "https://www.hstu.ac.bd",
+    "domain": "hstu.ac.bd",
+    "facebook": ""
+  },
+  "DU": {
+    "name": "DU",
+    "website": "http://result.du.ac.bd",
+    "domain": "result.du.ac.bd",
+    "facebook": ""
+  },
+  "RU": {
+    "name": "RU",
+    "website": "https://www.ru.ac.bd",
+    "domain": "ru.ac.bd",
+    "facebook": ""
+  }
+}
